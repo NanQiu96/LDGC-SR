@@ -7,7 +7,9 @@ We have implemented our methods in Pytorch, and this is the source code for the 
 
 ##### Datasets
 
-You can download the four datasets (Diginetica, Tmall, Nowplaying and Retailrocket) that we used in this paper from https://www.dropbox.com/sh/dbzmtq4zhzbj5o9/AAAMMlmNKL-wAAYK8QWyL9MEa/Datasets?dl=0&subfolder_nav_tracking=1 and https://www.kaggle.com/retailrocket/ecommerce-dataset. After downloaded all datasets, please put them in the folder 'datasets/'.
+You can download the four datasets (Diginetica, Tmall, Nowplaying and Retailrocket) that we used in this paper from
+https://www.dropbox.com/sh/dbzmtq4zhzbj5o9/AAAMMlmNKL-wAAYK8QWyL9MEa/Datasets?dl=0&subfolder_nav_tracking=1 and https://www.kaggle.com/retailrocket/ecommerce-dataset. 
+After downloaded all datasets, please put them in the folder 'datasets/'.
 
 
 
