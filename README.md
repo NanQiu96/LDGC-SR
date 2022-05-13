@@ -111,3 +111,23 @@ optional arguments:
   --last_len LAST_LEN   the number of last items
 ```
 
+
+
+## Citation
+
+Please cite our paper if you use this code:
+
+```
+@article{QIU2022108894,
+    title = {LDGC-SR: Integrating long-range dependencies and global context information for session-based recommendation},
+    author = {Nan Qiu and BoYu Gao and Huawei Tu and Feiran Huang and Quanlong Guan and Weiqi Luo},
+    journal = {Knowledge-Based Systems},
+    volume = {248},
+    pages = {108894},
+    year = {2022},
+    issn = {0950-7051},
+    doi = {https://doi.org/10.1016/j.knosys.2022.108894},
+    url = {https://www.sciencedirect.com/science/article/pii/S0950705122004270}
+}
+```
+
